@@ -98,7 +98,7 @@ ans3 = st.text_input(
 )
 ans4 = st.text_input(
     "ข้อ 4: We like playing on our `p _ _ n e`. 📱 ",
-    value=st.session_state.ans3_val,
+    value=st.session_state.ans4_val,
 )
 
 # อัปเดตค่าล่าสุดเข้าตัวแปร
