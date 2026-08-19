@@ -96,7 +96,7 @@ ans3 = st.text_input(
     value=st.session_state.ans3_val,
 )
 ans4 = st.text_input(
-    "ข้อ 4: Cows like to eat grass `g _ _ s s`. 🌳",
+    "ข้อ 4: We like playing on our `p _ _ n e`. 📱 ",
     value=st.session_state.ans3_val,
 )
 
